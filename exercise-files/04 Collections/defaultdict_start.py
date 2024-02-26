@@ -20,6 +20,8 @@ def main():
         #print(k + ": " + str(v))
     print(*(f"{k} : {v}\n" for k, v in fruitCounter.items()))
 
+#:P
+
 
 if __name__ == "__main__":
     main()
